@@ -1,0 +1,12 @@
+.x{
+    background-image: url("../../../assets/images/sign1.jpg");
+    background-position: center center;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.cardtext{
+    opacity: 50%;
+}
